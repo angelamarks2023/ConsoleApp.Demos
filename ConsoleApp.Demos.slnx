@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="ConsoleApp.Operators/ConsoleApp.Operators.csproj" Id="b9c89c09-45c7-4ea4-bcec-65547025c129" />
   <Project Path="ConsoleApp.OutputDemo/ConsoleApp.OutputDemo.csproj" />
   <Project Path="ConsoleApp.UserInputDemo/ConsoleApp.UserInputDemo.csproj" />
   <Project Path="ConsoleApp.VariableDemo/ConsoleApp.VariableDemo.csproj" />
