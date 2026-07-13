@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="ConsoleApp.ConditionsAndDecisions/ConsoleApp.ConditionsAndDecisions.csproj" Id="14fc31a6-1d6d-4a1d-a161-cd252b5cb6d7" />
+  <Project Path="ConsoleApp.Loops/ConsoleApp.Loops.csproj" Id="79bbc287-269c-4881-8252-83571e06cd43" />
   <Project Path="ConsoleApp.Operators/ConsoleApp.Operators.csproj" Id="b9c89c09-45c7-4ea4-bcec-65547025c129" />
   <Project Path="ConsoleApp.OutputDemo/ConsoleApp.OutputDemo.csproj" />
   <Project Path="ConsoleApp.SampleCalculator/ConsoleApp.SampleCalculator.csproj" Id="c5279cb9-0e66-4625-81d5-9e7bb1cb71bf" />
