@@ -3,6 +3,7 @@
   <Project Path="ConsoleApp.DateTimeManipulation/ConsoleApp.DateTimeManipulation.csproj" Id="ebc14abf-bb7f-4ea4-910d-52cfab08807c" />
   <Project Path="ConsoleApp.ExceptionHandlingDemo/ConsoleApp.ExceptionHandlingDemo.csproj" Id="32c0171f-987a-4a8b-b90c-3e87ecf6d972" />
   <Project Path="ConsoleApp.Loops/ConsoleApp.Loops.csproj" Id="79bbc287-269c-4881-8252-83571e06cd43" />
+  <Project Path="ConsoleApp.Methods/ConsoleApp.Methods.csproj" Id="4f181f4e-3bfb-49c4-a1bb-e2bce5ce84d2" />
   <Project Path="ConsoleApp.Operators/ConsoleApp.Operators.csproj" Id="b9c89c09-45c7-4ea4-bcec-65547025c129" />
   <Project Path="ConsoleApp.OutputDemo/ConsoleApp.OutputDemo.csproj" />
   <Project Path="ConsoleApp.SampleCalculator/ConsoleApp.SampleCalculator.csproj" Id="c5279cb9-0e66-4625-81d5-9e7bb1cb71bf" />
