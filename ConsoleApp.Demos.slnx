@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="ConsoleApp.Arrays/ConsoleApp.Arrays.csproj" Id="ae93eeff-68b3-4f28-8c15-ec210e975f9f" />
+  <Project Path="ConsoleApp.ClassDemo/ConsoleApp.ClassesDemo.csproj" Id="487ea82c-0a6b-4225-a114-6947341dd4db" />
   <Project Path="ConsoleApp.ConditionsAndDecisions/ConsoleApp.ConditionsAndDecisions.csproj" Id="14fc31a6-1d6d-4a1d-a161-cd252b5cb6d7" />
   <Project Path="ConsoleApp.DateTimeManipulation/ConsoleApp.DateTimeManipulation.csproj" Id="ebc14abf-bb7f-4ea4-910d-52cfab08807c" />
   <Project Path="ConsoleApp.ExceptionHandlingDemo/ConsoleApp.ExceptionHandlingDemo.csproj" Id="32c0171f-987a-4a8b-b90c-3e87ecf6d972" />
